@@ -12,13 +12,11 @@ public class Customer implements Runnable{
 
     public void run(){
         for(int i = 0; i < Qty; i++){
-            Ticket ticket = ticketPool.removeTicket();
-            System.out.println("Ticket - "+ ticket + "Customer name is "+Thread.currentThread().getName() );
+            ticketPool.removeTicket();
             try {
                 Thread.sleep(customerRetrivelRate*1000);
             }catch (InterruptedException e){
-                e.printStackTrace();
-                throw new RuntimeException(e);
+                Thread.currentThread().interrupt();
             }
         }
     }

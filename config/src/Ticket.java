@@ -12,30 +12,6 @@ public class Ticket {
         this.ticketPrice = ticketPrice;
     }
 
-    public int getTicketId() {
-        return TicketId;
-    }
-
-    public void setTicketId(int ticketId) {
-        TicketId = ticketId;
-    }
-
-    public String getEventName() {
-        return eventName;
-    }
-
-    public void setEventName(String eventName) {
-        this.eventName = eventName;
-    }
-
-    public BigDecimal getTicketPrice() {
-        return ticketPrice;
-    }
-
-    public void setTicketPrice(BigDecimal ticketPrice) {
-        this.ticketPrice = ticketPrice;
-    }
-
     @Override
     public String toString() {
         return "Ticket{" +

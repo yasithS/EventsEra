@@ -9,6 +9,10 @@ public class TicketPool {
     private Queue<Ticket> ticketQueue;
     private FileWriter fileWriter;
 
+    // using volatile keyword to ensure memory visibility through threads.
+    private volatile int totalTicketsReleased;
+    private volatile int totalTicketsBought;
+
     public TicketPool(int maximumTicketCount) {
         this.maximumTicketCount = maximumTicketCount;
         ticketQueue = new LinkedList<>();
@@ -24,8 +28,9 @@ public class TicketPool {
             }
         }
         this.ticketQueue.add(ticket);
+        totalTicketsReleased ++; // increasing the total tickets released by vendors by 1
+
         String logMessage = Thread.currentThread().getName() + " added ticket to the system. Ticket pool updated; current size " + ticketQueue.size();
-        System.out.println(logMessage);
 
         // updating the txt file
         try {
@@ -58,8 +63,8 @@ public class TicketPool {
         }
 
         Ticket ticket = ticketQueue.poll();
+        totalTicketsBought ++; // increasing the total tickets bought by customers by 1
         String removeLog = Thread.currentThread().getName() + " bought ticket from the system. current size: " + ticketQueue.size() +" Ticket is "+ ticket;
-        System.out.println(removeLog);
 
         // updating the txt file
         try {
@@ -80,5 +85,25 @@ public class TicketPool {
         notifyAll();
         return ticket;
     }
+
+    public synchronized int getCurrentTicketCount() {
+        return ticketQueue.size();
+    }
+
+    public synchronized int getTotalTicketsReleased(){
+        return totalTicketsReleased;
+    }
+
+    public synchronized int getTotalTicketsBought(){
+        return totalTicketsBought;
+    }
+
+    public synchronized  int getMaximumTicketCount(){
+        return maximumTicketCount;
+    }
+
+
+
+
 
 }

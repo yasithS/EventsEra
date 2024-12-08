@@ -14,12 +14,12 @@ public class Vendor implements  Runnable{
 
     public void run(){
         for (int i = 1 ; i < totalTickets; i++) {
-            Ticket ticket = new Ticket(i, "AE HA", new BigDecimal("3000"));
+            Ticket ticket = new Ticket(i, "API_KAWURUDA_WAYO", new BigDecimal("3000"));
             ticketPool.addTicket(ticket);
             try{
                 Thread.sleep(ticketReleaseRate * 1000);
             }catch (InterruptedException e){
-                throw new RuntimeException(e);
+                Thread.currentThread().interrupt();
             }
         }
     }

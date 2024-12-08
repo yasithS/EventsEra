@@ -5,11 +5,13 @@ import java.sql.SQLException;
 public class ConfigurationManager {
 
     private Connection connection;
+    private Configuration currnetConfiguration;
 
     public ConfigurationManager(){
         this.connection = DBConnection.createDBConnection();
     }
 
+    // save configuration data into the database
     public void saveConfiguration(int maxTicketPool,
                                   int totalVendors, int releasePerVendor, int vendorReleaseRate,
                                   int totalCustomers, int ticketsPerCustomer, int customerBuyingRate) throws SQLException {
@@ -25,9 +27,23 @@ public class ConfigurationManager {
             InsertStatement.setInt(6, ticketsPerCustomer);
             InsertStatement.setInt(7, customerBuyingRate);
             InsertStatement.executeUpdate();
+
+            // update configuration
+            this.currnetConfiguration = new Configuration(
+                    maxTicketPool, totalVendors, releasePerVendor, vendorReleaseRate,
+                    totalCustomers, ticketsPerCustomer, customerBuyingRate
+            );
             System.out.println("Admin configuration data saved to the database!");
         }
     }
+
+    public Configuration getCurrnetConfiguration() {
+        if (currnetConfiguration == null){
+            System.out.println("Current configuration not found!");
+        }
+        return currnetConfiguration;
+    }
+
 
     public class Configuration {
         private int maxTicketCap;
@@ -55,14 +71,6 @@ public class ConfigurationManager {
             this.vendorTicketBuyRate = vendorTicketBuyRate;
         }
 
-        // Getters
-        public int getMaxTicketCap() { return maxTicketCap; }
-        public int getVendorTotal() { return vendorTotal; }
-        public int getVendorRelease() { return vendorRelease; }
-        public int getVendorReleaseRate() { return vendorReleaseRate; }
-        public int getCustomerTotal() { return customerTotal; }
-        public int getNumCustomersBuy() { return numCustomersBuy; }
-        public int getVendorTicketBuyRate() { return vendorTicketBuyRate; }
     }
 
 

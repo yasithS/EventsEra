@@ -2,6 +2,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+
 public class ConfigurationManager {
 
     private Connection connection;
@@ -36,14 +37,6 @@ public class ConfigurationManager {
             System.out.println("Admin configuration data saved to the database!");
         }
     }
-
-    public Configuration getCurrnetConfiguration() {
-        if (currnetConfiguration == null){
-            System.out.println("Current configuration not found!");
-        }
-        return currnetConfiguration;
-    }
-
 
     public class Configuration {
         private int maxTicketCap;

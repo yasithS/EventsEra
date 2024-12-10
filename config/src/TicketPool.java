@@ -3,11 +3,16 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Queue;
 
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+
 public class TicketPool {
 
     private int maximumTicketCount;
     private Queue<Ticket> ticketQueue;
     private FileWriter fileWriter;
+
+    private static final DateTimeFormatter currentTime = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
     // using volatile keyword to ensure memory visibility through threads.
     private volatile int totalTicketsReleased;
@@ -30,7 +35,10 @@ public class TicketPool {
         this.ticketQueue.add(ticket);
         totalTicketsReleased ++; // increasing the total tickets released by vendors by 1
 
-        String logMessage = Thread.currentThread().getName() + " added ticket to the system. Ticket pool updated; current size " + ticketQueue.size();
+        // String logMessage ="[LOG] Vendor"+Thread.currentThread().getName() + " added ticket to the system. Ticket pool updated; current size " + ticketQueue.size();
+        String logMessage = "[LOG]  | " + LocalDateTime.now() + " | VENDOR | " + "Vendor"+Thread.currentThread().getName() + " | Added ticket \n" +
+                "[INFO] | Current pool size "+ ticketQueue.size() +" of "+maximumTicketCount;
+
 
         // updating the txt file
         try {
@@ -64,7 +72,11 @@ public class TicketPool {
 
         Ticket ticket = ticketQueue.poll();
         totalTicketsBought ++; // increasing the total tickets bought by customers by 1
-        String removeLog = Thread.currentThread().getName() + " bought ticket from the system. current size: " + ticketQueue.size() +" Ticket is "+ ticket;
+        // String removeLog = Thread.currentThread().getName() + " bought ticket from the system. current size: " + ticketQueue.size() ;
+
+        String removeLog = "[LOG]  | " + LocalDateTime.now()  + " | CUSTOMER | "+ "customer"+Thread.currentThread().getName()+ " | purchased ticket \n"+
+                "[INFO] | Current pool size "+ticketQueue.size() + "/"+maximumTicketCount;
+
 
         // updating the txt file
         try {
@@ -103,7 +115,5 @@ public class TicketPool {
     }
 
 
-
-
-
 }
+

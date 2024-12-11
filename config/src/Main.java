@@ -103,6 +103,19 @@ public class Main {
             }
         }
 
+    private static int inputValidation(Scanner scanner, int min, int max){
+        int userInput;
+        while (true){
+            userInput = scanner.nextInt();
+            if (userInput >= min && userInput <= max){
+                break;
+            }System.out.println("Validation error! set configuration input between "+min+" and "+ max);
+        }
+        return userInput;
+
+    }
+
+
     private static void startSimulation(){
 
         // starting the vendor thread

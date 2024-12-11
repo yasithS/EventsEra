@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("api/simulation")
+@CrossOrigin(origins = "http://localhost:3000", allowedHeaders = "*", allowCredentials = "true")
 public class SimulationController {
 
 
@@ -55,4 +56,5 @@ public class SimulationController {
             return ResponseEntity.badRequest().build();
         }
     }
+
 }

@@ -26,12 +26,12 @@ export interface SystemStatus {
   providedIn: 'root'
 })
 export class SimulationService {
-  private apiUrl = 'api/simulation';
+  private apiUrl = '/api';
 
   constructor(private http: HttpClient) { }
 
   configureSystem(config: SimulationConfig): Observable<void> {
-    return this.http.post<void>(`${this.apiUrl}/configure`, config);
+    return this.http.post<void>(`${this.apiUrl}/simulation/configure`, config);
   }
 
   startSimulation(): Observable<string> {
@@ -43,6 +43,6 @@ export class SimulationService {
   }
 
   getSystemStatus(): Observable<SystemStatus> {
-    return this.http.get<SystemStatus>(`${this.apiUrl}/status`);
+    return this.http.get<SystemStatus>(`${this.apiUrl}/simulation/status`);
   }
 }

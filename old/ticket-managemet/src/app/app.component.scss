@@ -1,0 +1,27 @@
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  
+    .navbar {
+      padding: 1rem 0;
+      margin-bottom: 2rem;
+  
+      .navbar-brand {
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+    }
+  
+    main {
+      flex: 1;
+      padding: 20px 0;
+    }
+  
+    .footer {
+      margin-top: auto;
+      padding: 1rem 0;
+      background-color: #f8f9fa;
+      border-top: 1px solid #dee2e6;
+    }
+  }

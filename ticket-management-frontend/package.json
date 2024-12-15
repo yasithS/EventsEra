@@ -2,7 +2,6 @@
   "name": "ticket-management-frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8082",
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.1.2",
     "@radix-ui/react-label": "^2.1.0",

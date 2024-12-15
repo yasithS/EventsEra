@@ -19,4 +19,7 @@ public class SystemStatusDTO {
     public void setTotalTicketsBought(int totalTicketsBought) { this.totalTicketsBought = totalTicketsBought; }
     public void setActiveVendorThreads(int activeVendorThreads) { this.activeVendorThreads = activeVendorThreads; }
     public void setActiveCustomerThreads(int activeCustomerThreads) { this.activeCustomerThreads = activeCustomerThreads; }
+
+
+
 }

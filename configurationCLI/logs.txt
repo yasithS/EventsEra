@@ -1,0 +1,2000 @@
+[LOG]  | 2024-12-12T10:02:02.692917 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:02.705593 | CUSTOMER | customerThread-50 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:02.708123 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:02.708329 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:02.708443 | CUSTOMER | customerThread-68 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:02.708524 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:02.708605 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:02.708674 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:02.708759 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:02.708832 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:02.708912 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:02.708982 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:02.709093 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:02.709165 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:02.709232 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:02.709305 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:02.709380 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:02.709450 | CUSTOMER | customerThread-67 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:02.709517 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:02.709589 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 14 of 1000
+[LOG]  | 2024-12-12T10:02:02.709667 | CUSTOMER | customerThread-66 | purchased ticket 
+[INFO] | Current pool size 13/1000
+[LOG]  | 2024-12-12T10:02:02.709729 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 14 of 1000
+[LOG]  | 2024-12-12T10:02:02.709798 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 15 of 1000
+[LOG]  | 2024-12-12T10:02:02.709860 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 16 of 1000
+[LOG]  | 2024-12-12T10:02:02.709926 | CUSTOMER | customerThread-65 | purchased ticket 
+[INFO] | Current pool size 15/1000
+[LOG]  | 2024-12-12T10:02:02.709983 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 16 of 1000
+[LOG]  | 2024-12-12T10:02:02.710051 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 17 of 1000
+[LOG]  | 2024-12-12T10:02:02.710110 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 18 of 1000
+[LOG]  | 2024-12-12T10:02:02.710188 | CUSTOMER | customerThread-64 | purchased ticket 
+[INFO] | Current pool size 17/1000
+[LOG]  | 2024-12-12T10:02:02.710251 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 18 of 1000
+[LOG]  | 2024-12-12T10:02:02.710317 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 19 of 1000
+[LOG]  | 2024-12-12T10:02:02.710383 | CUSTOMER | customerThread-63 | purchased ticket 
+[INFO] | Current pool size 18/1000
+[LOG]  | 2024-12-12T10:02:02.710446 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 19 of 1000
+[LOG]  | 2024-12-12T10:02:02.710506 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 20 of 1000
+[LOG]  | 2024-12-12T10:02:02.710565 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 21 of 1000
+[LOG]  | 2024-12-12T10:02:02.710654 | CUSTOMER | customerThread-62 | purchased ticket 
+[INFO] | Current pool size 20/1000
+[LOG]  | 2024-12-12T10:02:02.710713 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 21 of 1000
+[LOG]  | 2024-12-12T10:02:02.710770 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 22 of 1000
+[LOG]  | 2024-12-12T10:02:02.710825 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 23 of 1000
+[LOG]  | 2024-12-12T10:02:02.710896 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 24 of 1000
+[LOG]  | 2024-12-12T10:02:02.710950 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 25 of 1000
+[LOG]  | 2024-12-12T10:02:02.711010 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 26 of 1000
+[LOG]  | 2024-12-12T10:02:02.711081 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 27 of 1000
+[LOG]  | 2024-12-12T10:02:02.711134 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 28 of 1000
+[LOG]  | 2024-12-12T10:02:02.711211 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 29 of 1000
+[LOG]  | 2024-12-12T10:02:02.711266 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 30 of 1000
+[LOG]  | 2024-12-12T10:02:02.711331 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 31 of 1000
+[LOG]  | 2024-12-12T10:02:02.711389 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 32 of 1000
+[LOG]  | 2024-12-12T10:02:02.711454 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 33 of 1000
+[LOG]  | 2024-12-12T10:02:02.711519 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 34 of 1000
+[LOG]  | 2024-12-12T10:02:02.711585 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 35 of 1000
+[LOG]  | 2024-12-12T10:02:02.711653 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 36 of 1000
+[LOG]  | 2024-12-12T10:02:02.711709 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 37 of 1000
+[LOG]  | 2024-12-12T10:02:02.711768 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 38 of 1000
+[LOG]  | 2024-12-12T10:02:02.711827 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 39 of 1000
+[LOG]  | 2024-12-12T10:02:02.711892 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 40 of 1000
+[LOG]  | 2024-12-12T10:02:02.711948 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 41 of 1000
+[LOG]  | 2024-12-12T10:02:02.712009 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 42 of 1000
+[LOG]  | 2024-12-12T10:02:02.712110 | CUSTOMER | customerThread-69 | purchased ticket 
+[INFO] | Current pool size 41/1000
+[LOG]  | 2024-12-12T10:02:02.712171 | CUSTOMER | customerThread-70 | purchased ticket 
+[INFO] | Current pool size 40/1000
+[LOG]  | 2024-12-12T10:02:02.712522 | CUSTOMER | customerThread-71 | purchased ticket 
+[INFO] | Current pool size 39/1000
+[LOG]  | 2024-12-12T10:02:02.712594 | CUSTOMER | customerThread-72 | purchased ticket 
+[INFO] | Current pool size 38/1000
+[LOG]  | 2024-12-12T10:02:02.712666 | CUSTOMER | customerThread-73 | purchased ticket 
+[INFO] | Current pool size 37/1000
+[LOG]  | 2024-12-12T10:02:02.712727 | CUSTOMER | customerThread-74 | purchased ticket 
+[INFO] | Current pool size 36/1000
+[LOG]  | 2024-12-12T10:02:02.712795 | CUSTOMER | customerThread-75 | purchased ticket 
+[INFO] | Current pool size 35/1000
+[LOG]  | 2024-12-12T10:02:02.712869 | CUSTOMER | customerThread-76 | purchased ticket 
+[INFO] | Current pool size 34/1000
+[LOG]  | 2024-12-12T10:02:02.712968 | CUSTOMER | customerThread-77 | purchased ticket 
+[INFO] | Current pool size 33/1000
+[LOG]  | 2024-12-12T10:02:02.713030 | CUSTOMER | customerThread-78 | purchased ticket 
+[INFO] | Current pool size 32/1000
+[LOG]  | 2024-12-12T10:02:02.713103 | CUSTOMER | customerThread-79 | purchased ticket 
+[INFO] | Current pool size 31/1000
+[LOG]  | 2024-12-12T10:02:02.713164 | CUSTOMER | customerThread-80 | purchased ticket 
+[INFO] | Current pool size 30/1000
+[LOG]  | 2024-12-12T10:02:02.713255 | CUSTOMER | customerThread-81 | purchased ticket 
+[INFO] | Current pool size 29/1000
+[LOG]  | 2024-12-12T10:02:02.713311 | CUSTOMER | customerThread-82 | purchased ticket 
+[INFO] | Current pool size 28/1000
+[LOG]  | 2024-12-12T10:02:02.713386 | CUSTOMER | customerThread-83 | purchased ticket 
+[INFO] | Current pool size 27/1000
+[LOG]  | 2024-12-12T10:02:02.713462 | CUSTOMER | customerThread-84 | purchased ticket 
+[INFO] | Current pool size 26/1000
+[LOG]  | 2024-12-12T10:02:02.713530 | CUSTOMER | customerThread-85 | purchased ticket 
+[INFO] | Current pool size 25/1000
+[LOG]  | 2024-12-12T10:02:02.713597 | CUSTOMER | customerThread-86 | purchased ticket 
+[INFO] | Current pool size 24/1000
+[LOG]  | 2024-12-12T10:02:02.713655 | CUSTOMER | customerThread-87 | purchased ticket 
+[INFO] | Current pool size 23/1000
+[LOG]  | 2024-12-12T10:02:02.713713 | CUSTOMER | customerThread-88 | purchased ticket 
+[INFO] | Current pool size 22/1000
+[LOG]  | 2024-12-12T10:02:02.713767 | CUSTOMER | customerThread-89 | purchased ticket 
+[INFO] | Current pool size 21/1000
+[LOG]  | 2024-12-12T10:02:02.713826 | CUSTOMER | customerThread-90 | purchased ticket 
+[INFO] | Current pool size 20/1000
+[LOG]  | 2024-12-12T10:02:02.713879 | CUSTOMER | customerThread-91 | purchased ticket 
+[INFO] | Current pool size 19/1000
+[LOG]  | 2024-12-12T10:02:02.713934 | CUSTOMER | customerThread-92 | purchased ticket 
+[INFO] | Current pool size 18/1000
+[LOG]  | 2024-12-12T10:02:02.713987 | CUSTOMER | customerThread-93 | purchased ticket 
+[INFO] | Current pool size 17/1000
+[LOG]  | 2024-12-12T10:02:02.714044 | CUSTOMER | customerThread-94 | purchased ticket 
+[INFO] | Current pool size 16/1000
+[LOG]  | 2024-12-12T10:02:02.714092 | CUSTOMER | customerThread-95 | purchased ticket 
+[INFO] | Current pool size 15/1000
+[LOG]  | 2024-12-12T10:02:02.714141 | CUSTOMER | customerThread-96 | purchased ticket 
+[INFO] | Current pool size 14/1000
+[LOG]  | 2024-12-12T10:02:02.714189 | CUSTOMER | customerThread-97 | purchased ticket 
+[INFO] | Current pool size 13/1000
+[LOG]  | 2024-12-12T10:02:02.714237 | CUSTOMER | customerThread-98 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:02.714293 | CUSTOMER | customerThread-99 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:02.714344 | CUSTOMER | customerThread-100 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:02.714403 | CUSTOMER | customerThread-101 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:02.714457 | CUSTOMER | customerThread-102 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:02.714501 | CUSTOMER | customerThread-103 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:02.714598 | CUSTOMER | customerThread-104 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:02.714642 | CUSTOMER | customerThread-105 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:02.714691 | CUSTOMER | customerThread-106 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:02.714737 | CUSTOMER | customerThread-107 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:02.714786 | CUSTOMER | customerThread-108 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:02.714829 | CUSTOMER | customerThread-109 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:02.714878 | CUSTOMER | customerThread-110 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:07.718050 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:07.723176 | CUSTOMER | customerThread-111 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:07.725448 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:07.725684 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:07.725865 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:07.725988 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:07.726138 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:07.726228 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:07.726323 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:07.726408 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:07.726517 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:07.726607 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:07.726690 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:07.726787 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:07.726864 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:07.726963 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 14 of 1000
+[LOG]  | 2024-12-12T10:02:07.727071 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 15 of 1000
+[LOG]  | 2024-12-12T10:02:07.727170 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 16 of 1000
+[LOG]  | 2024-12-12T10:02:07.727256 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 17 of 1000
+[LOG]  | 2024-12-12T10:02:07.727343 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 18 of 1000
+[LOG]  | 2024-12-12T10:02:07.727441 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 19 of 1000
+[LOG]  | 2024-12-12T10:02:07.727528 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 20 of 1000
+[LOG]  | 2024-12-12T10:02:07.727602 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 21 of 1000
+[LOG]  | 2024-12-12T10:02:07.727672 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 22 of 1000
+[LOG]  | 2024-12-12T10:02:07.727779 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 23 of 1000
+[LOG]  | 2024-12-12T10:02:07.727847 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 24 of 1000
+[LOG]  | 2024-12-12T10:02:07.727946 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 25 of 1000
+[LOG]  | 2024-12-12T10:02:07.728049 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 26 of 1000
+[LOG]  | 2024-12-12T10:02:07.728195 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 27 of 1000
+[LOG]  | 2024-12-12T10:02:07.728352 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 28 of 1000
+[LOG]  | 2024-12-12T10:02:07.728441 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 29 of 1000
+[LOG]  | 2024-12-12T10:02:07.728526 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 30 of 1000
+[LOG]  | 2024-12-12T10:02:07.728623 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 31 of 1000
+[LOG]  | 2024-12-12T10:02:07.728700 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 32 of 1000
+[LOG]  | 2024-12-12T10:02:07.728792 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 33 of 1000
+[LOG]  | 2024-12-12T10:02:07.728869 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 34 of 1000
+[LOG]  | 2024-12-12T10:02:07.728954 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 35 of 1000
+[LOG]  | 2024-12-12T10:02:07.729025 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 36 of 1000
+[LOG]  | 2024-12-12T10:02:07.729108 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 37 of 1000
+[LOG]  | 2024-12-12T10:02:07.729217 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 38 of 1000
+[LOG]  | 2024-12-12T10:02:07.729294 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 39 of 1000
+[LOG]  | 2024-12-12T10:02:07.729359 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 40 of 1000
+[LOG]  | 2024-12-12T10:02:07.729460 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 41 of 1000
+[LOG]  | 2024-12-12T10:02:07.729555 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 42 of 1000
+[LOG]  | 2024-12-12T10:02:07.729625 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 43 of 1000
+[LOG]  | 2024-12-12T10:02:07.729761 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 44 of 1000
+[LOG]  | 2024-12-12T10:02:07.730014 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 45 of 1000
+[LOG]  | 2024-12-12T10:02:07.730221 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 46 of 1000
+[LOG]  | 2024-12-12T10:02:07.730342 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 47 of 1000
+[LOG]  | 2024-12-12T10:02:07.730507 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 48 of 1000
+[LOG]  | 2024-12-12T10:02:07.730656 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 49 of 1000
+[LOG]  | 2024-12-12T10:02:07.731044 | CUSTOMER | customerThread-112 | purchased ticket 
+[INFO] | Current pool size 48/1000
+[LOG]  | 2024-12-12T10:02:07.731191 | CUSTOMER | customerThread-113 | purchased ticket 
+[INFO] | Current pool size 47/1000
+[LOG]  | 2024-12-12T10:02:07.731352 | CUSTOMER | customerThread-114 | purchased ticket 
+[INFO] | Current pool size 46/1000
+[LOG]  | 2024-12-12T10:02:07.731468 | CUSTOMER | customerThread-115 | purchased ticket 
+[INFO] | Current pool size 45/1000
+[LOG]  | 2024-12-12T10:02:07.731587 | CUSTOMER | customerThread-116 | purchased ticket 
+[INFO] | Current pool size 44/1000
+[LOG]  | 2024-12-12T10:02:07.731706 | CUSTOMER | customerThread-117 | purchased ticket 
+[INFO] | Current pool size 43/1000
+[LOG]  | 2024-12-12T10:02:07.731891 | CUSTOMER | customerThread-118 | purchased ticket 
+[INFO] | Current pool size 42/1000
+[LOG]  | 2024-12-12T10:02:07.732050 | CUSTOMER | customerThread-119 | purchased ticket 
+[INFO] | Current pool size 41/1000
+[LOG]  | 2024-12-12T10:02:07.732177 | CUSTOMER | customerThread-120 | purchased ticket 
+[INFO] | Current pool size 40/1000
+[LOG]  | 2024-12-12T10:02:07.732281 | CUSTOMER | customerThread-121 | purchased ticket 
+[INFO] | Current pool size 39/1000
+[LOG]  | 2024-12-12T10:02:07.732391 | CUSTOMER | customerThread-122 | purchased ticket 
+[INFO] | Current pool size 38/1000
+[LOG]  | 2024-12-12T10:02:07.732520 | CUSTOMER | customerThread-123 | purchased ticket 
+[INFO] | Current pool size 37/1000
+[LOG]  | 2024-12-12T10:02:07.732697 | CUSTOMER | customerThread-124 | purchased ticket 
+[INFO] | Current pool size 36/1000
+[LOG]  | 2024-12-12T10:02:07.732793 | CUSTOMER | customerThread-126 | purchased ticket 
+[INFO] | Current pool size 35/1000
+[LOG]  | 2024-12-12T10:02:07.732902 | CUSTOMER | customerThread-125 | purchased ticket 
+[INFO] | Current pool size 34/1000
+[LOG]  | 2024-12-12T10:02:07.733027 | CUSTOMER | customerThread-127 | purchased ticket 
+[INFO] | Current pool size 33/1000
+[LOG]  | 2024-12-12T10:02:07.733140 | CUSTOMER | customerThread-128 | purchased ticket 
+[INFO] | Current pool size 32/1000
+[LOG]  | 2024-12-12T10:02:07.733247 | CUSTOMER | customerThread-129 | purchased ticket 
+[INFO] | Current pool size 31/1000
+[LOG]  | 2024-12-12T10:02:07.733360 | CUSTOMER | customerThread-130 | purchased ticket 
+[INFO] | Current pool size 30/1000
+[LOG]  | 2024-12-12T10:02:07.733530 | CUSTOMER | customerThread-131 | purchased ticket 
+[INFO] | Current pool size 29/1000
+[LOG]  | 2024-12-12T10:02:07.733676 | CUSTOMER | customerThread-132 | purchased ticket 
+[INFO] | Current pool size 28/1000
+[LOG]  | 2024-12-12T10:02:07.733793 | CUSTOMER | customerThread-133 | purchased ticket 
+[INFO] | Current pool size 27/1000
+[LOG]  | 2024-12-12T10:02:07.733969 | CUSTOMER | customerThread-134 | purchased ticket 
+[INFO] | Current pool size 26/1000
+[LOG]  | 2024-12-12T10:02:07.734083 | CUSTOMER | customerThread-135 | purchased ticket 
+[INFO] | Current pool size 25/1000
+[LOG]  | 2024-12-12T10:02:07.734190 | CUSTOMER | customerThread-136 | purchased ticket 
+[INFO] | Current pool size 24/1000
+[LOG]  | 2024-12-12T10:02:07.734315 | CUSTOMER | customerThread-137 | purchased ticket 
+[INFO] | Current pool size 23/1000
+[LOG]  | 2024-12-12T10:02:07.734532 | CUSTOMER | customerThread-138 | purchased ticket 
+[INFO] | Current pool size 22/1000
+[LOG]  | 2024-12-12T10:02:07.734730 | CUSTOMER | customerThread-139 | purchased ticket 
+[INFO] | Current pool size 21/1000
+[LOG]  | 2024-12-12T10:02:07.734896 | CUSTOMER | customerThread-140 | purchased ticket 
+[INFO] | Current pool size 20/1000
+[LOG]  | 2024-12-12T10:02:07.735021 | CUSTOMER | customerThread-141 | purchased ticket 
+[INFO] | Current pool size 19/1000
+[LOG]  | 2024-12-12T10:02:07.735169 | CUSTOMER | customerThread-142 | purchased ticket 
+[INFO] | Current pool size 18/1000
+[LOG]  | 2024-12-12T10:02:07.735344 | CUSTOMER | customerThread-143 | purchased ticket 
+[INFO] | Current pool size 17/1000
+[LOG]  | 2024-12-12T10:02:07.735482 | CUSTOMER | customerThread-144 | purchased ticket 
+[INFO] | Current pool size 16/1000
+[LOG]  | 2024-12-12T10:02:07.735579 | CUSTOMER | customerThread-145 | purchased ticket 
+[INFO] | Current pool size 15/1000
+[LOG]  | 2024-12-12T10:02:07.735704 | CUSTOMER | customerThread-146 | purchased ticket 
+[INFO] | Current pool size 14/1000
+[LOG]  | 2024-12-12T10:02:07.735853 | CUSTOMER | customerThread-147 | purchased ticket 
+[INFO] | Current pool size 13/1000
+[LOG]  | 2024-12-12T10:02:07.735964 | CUSTOMER | customerThread-149 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:07.736113 | CUSTOMER | customerThread-148 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:07.736219 | CUSTOMER | customerThread-150 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:07.736341 | CUSTOMER | customerThread-151 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:07.736486 | CUSTOMER | customerThread-152 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:07.736611 | CUSTOMER | customerThread-153 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:07.736827 | CUSTOMER | customerThread-154 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:07.737034 | CUSTOMER | customerThread-155 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:07.737155 | CUSTOMER | customerThread-156 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:07.737274 | CUSTOMER | customerThread-157 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:07.737622 | CUSTOMER | customerThread-158 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:07.738359 | CUSTOMER | customerThread-159 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:07.738834 | CUSTOMER | customerThread-160 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.725952 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.732716 | CUSTOMER | customerThread-161 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.732901 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.733018 | CUSTOMER | customerThread-95 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.733191 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.733267 | CUSTOMER | customerThread-80 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.733461 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.733545 | CUSTOMER | customerThread-84 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.733605 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.733672 | CUSTOMER | customerThread-63 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.733819 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.733935 | CUSTOMER | customerThread-245 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.734005 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.734057 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:12.734122 | CUSTOMER | customerThread-230 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:12.734184 | CUSTOMER | customerThread-232 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.734259 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.734354 | CUSTOMER | customerThread-61 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:12.734422 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:12.734473 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:12.734535 | CUSTOMER | customerThread-59 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:12.734583 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:12.734637 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:12.734690 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:12.734752 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.734847 | CUSTOMER | customerThread-58 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.734900 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.734966 | CUSTOMER | customerThread-57 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.735011 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.735055 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:12.735119 | CUSTOMER | customerThread-227 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:12.735181 | CUSTOMER | customerThread-235 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.735234 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.735292 | CUSTOMER | customerThread-56 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.735343 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.735412 | CUSTOMER | customerThread-55 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.735461 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.735534 | CUSTOMER | customerThread-236 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.735589 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.735654 | CUSTOMER | customerThread-54 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.735704 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:12.735776 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:12.735823 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:12.735960 | CUSTOMER | customerThread-53 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:12.736068 | CUSTOMER | customerThread-237 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:12.736139 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:12.736224 | CUSTOMER | customerThread-52 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:12.736286 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:12.736360 | CUSTOMER | customerThread-51 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:12.736414 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:12.736493 | CUSTOMER | customerThread-226 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:12.736548 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:12.736599 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:12.736650 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:12.736719 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:12.736839 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:12.737005 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:12.737077 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:12.737133 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:12.737197 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 14 of 1000
+[LOG]  | 2024-12-12T10:02:12.737248 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 15 of 1000
+[LOG]  | 2024-12-12T10:02:12.737344 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 16 of 1000
+[LOG]  | 2024-12-12T10:02:12.737406 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 17 of 1000
+[LOG]  | 2024-12-12T10:02:12.737484 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 18 of 1000
+[LOG]  | 2024-12-12T10:02:12.737549 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 19 of 1000
+[LOG]  | 2024-12-12T10:02:12.737608 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 20 of 1000
+[LOG]  | 2024-12-12T10:02:12.737665 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 21 of 1000
+[LOG]  | 2024-12-12T10:02:12.737731 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 22 of 1000
+[LOG]  | 2024-12-12T10:02:12.737801 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 23 of 1000
+[LOG]  | 2024-12-12T10:02:12.737860 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 24 of 1000
+[LOG]  | 2024-12-12T10:02:12.737916 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 25 of 1000
+[LOG]  | 2024-12-12T10:02:12.737990 | CUSTOMER | customerThread-225 | purchased ticket 
+[INFO] | Current pool size 24/1000
+[LOG]  | 2024-12-12T10:02:12.738056 | CUSTOMER | customerThread-238 | purchased ticket 
+[INFO] | Current pool size 23/1000
+[LOG]  | 2024-12-12T10:02:12.738123 | CUSTOMER | customerThread-224 | purchased ticket 
+[INFO] | Current pool size 22/1000
+[LOG]  | 2024-12-12T10:02:12.738193 | CUSTOMER | customerThread-223 | purchased ticket 
+[INFO] | Current pool size 21/1000
+[LOG]  | 2024-12-12T10:02:12.738243 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 22 of 1000
+[LOG]  | 2024-12-12T10:02:12.738337 | CUSTOMER | customerThread-222 | purchased ticket 
+[INFO] | Current pool size 21/1000
+[LOG]  | 2024-12-12T10:02:12.738576 | CUSTOMER | customerThread-239 | purchased ticket 
+[INFO] | Current pool size 20/1000
+[LOG]  | 2024-12-12T10:02:12.739063 | CUSTOMER | customerThread-221 | purchased ticket 
+[INFO] | Current pool size 19/1000
+[LOG]  | 2024-12-12T10:02:12.739235 | CUSTOMER | customerThread-220 | purchased ticket 
+[INFO] | Current pool size 18/1000
+[LOG]  | 2024-12-12T10:02:12.739326 | CUSTOMER | customerThread-240 | purchased ticket 
+[INFO] | Current pool size 17/1000
+[LOG]  | 2024-12-12T10:02:12.739394 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 18 of 1000
+[LOG]  | 2024-12-12T10:02:12.739507 | CUSTOMER | customerThread-219 | purchased ticket 
+[INFO] | Current pool size 17/1000
+[LOG]  | 2024-12-12T10:02:12.739610 | CUSTOMER | customerThread-218 | purchased ticket 
+[INFO] | Current pool size 16/1000
+[LOG]  | 2024-12-12T10:02:12.739715 | CUSTOMER | customerThread-217 | purchased ticket 
+[INFO] | Current pool size 15/1000
+[LOG]  | 2024-12-12T10:02:12.739995 | CUSTOMER | customerThread-216 | purchased ticket 
+[INFO] | Current pool size 14/1000
+[LOG]  | 2024-12-12T10:02:12.740201 | CUSTOMER | customerThread-241 | purchased ticket 
+[INFO] | Current pool size 13/1000
+[LOG]  | 2024-12-12T10:02:12.740325 | CUSTOMER | customerThread-215 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:12.740397 | CUSTOMER | customerThread-214 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:12.740531 | CUSTOMER | customerThread-213 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:12.740618 | CUSTOMER | customerThread-242 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:12.740693 | CUSTOMER | customerThread-212 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:12.740998 | CUSTOMER | customerThread-211 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:12.741138 | CUSTOMER | customerThread-210 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:12.741687 | CUSTOMER | customerThread-243 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:12.741788 | CUSTOMER | customerThread-209 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:12.741935 | CUSTOMER | customerThread-208 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:12.742116 | CUSTOMER | customerThread-207 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:12.742278 | CUSTOMER | customerThread-206 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:12.742471 | CUSTOMER | customerThread-244 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.734320 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.735339 | CUSTOMER | customerThread-205 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.735961 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.736251 | CUSTOMER | customerThread-103 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.737323 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.737477 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.737691 | CUSTOMER | customerThread-177 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.737858 | CUSTOMER | customerThread-178 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.739149 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.739368 | CUSTOMER | customerThread-87 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.739616 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.739756 | CUSTOMER | customerThread-152 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.739865 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.739965 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.740061 | CUSTOMER | customerThread-159 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.740204 | CUSTOMER | customerThread-151 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.740365 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.740481 | CUSTOMER | customerThread-131 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.740617 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.740726 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.740831 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:17.740926 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:17.741028 | CUSTOMER | customerThread-133 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:17.741127 | CUSTOMER | customerThread-127 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:17.741225 | CUSTOMER | customerThread-129 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.741318 | CUSTOMER | customerThread-128 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.741640 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.741776 | CUSTOMER | customerThread-132 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.741916 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.742056 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.742179 | CUSTOMER | customerThread-135 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.742285 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.742409 | CUSTOMER | customerThread-143 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.742546 | CUSTOMER | customerThread-144 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.742657 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.742788 | CUSTOMER | customerThread-130 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.743128 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.743320 | CUSTOMER | customerThread-160 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.743453 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.743600 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.743715 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:17.743843 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:17.743955 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:17.744082 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:17.744236 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:17.744351 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:17.744481 | CUSTOMER | customerThread-138 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:17.744610 | CUSTOMER | customerThread-139 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:17.744744 | CUSTOMER | customerThread-140 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:17.744878 | CUSTOMER | customerThread-146 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:17.745033 | CUSTOMER | customerThread-148 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:17.745165 | CUSTOMER | customerThread-149 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:17.745310 | CUSTOMER | customerThread-142 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.745472 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.745613 | CUSTOMER | customerThread-153 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.745735 | CUSTOMER | customerThread-101 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.745895 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.746017 | CUSTOMER | customerThread-85 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.747188 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.747330 | CUSTOMER | customerThread-156 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.747483 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.747639 | CUSTOMER | customerThread-150 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.747764 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.747877 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.748003 | CUSTOMER | customerThread-147 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.748085 | CUSTOMER | customerThread-145 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.748180 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.748283 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.748365 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:17.748441 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:17.748522 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:17.748600 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:17.748705 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:17.748792 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:17.748883 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:17.748975 | CUSTOMER | customerThread-141 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:17.749058 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:17.749135 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:17.749210 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:17.749365 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:17.749481 | CUSTOMER | customerThread-155 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:17.749640 | CUSTOMER | customerThread-179 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:17.749799 | CUSTOMER | customerThread-180 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:17.749973 | CUSTOMER | customerThread-181 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:17.750114 | CUSTOMER | customerThread-182 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:17.750285 | CUSTOMER | customerThread-183 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:17.750446 | CUSTOMER | customerThread-184 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:17.750588 | CUSTOMER | customerThread-154 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:17.750706 | CUSTOMER | customerThread-185 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:17.750819 | CUSTOMER | customerThread-186 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:17.750909 | CUSTOMER | customerThread-187 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.751021 | CUSTOMER | customerThread-188 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:17.752138 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:17.752276 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:17.752389 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:17.752467 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:17.752548 | CUSTOMER | customerThread-136 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:17.752623 | CUSTOMER | customerThread-134 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:17.752699 | CUSTOMER | customerThread-111 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:17.752774 | CUSTOMER | customerThread-109 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.737917 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.739410 | CUSTOMER | customerThread-107 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.741926 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.742406 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:22.742728 | CUSTOMER | customerThread-63 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:22.743558 | CUSTOMER | customerThread-84 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.743758 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.743886 | CUSTOMER | customerThread-232 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.744117 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.744241 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:22.744400 | CUSTOMER | customerThread-244 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:22.744504 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:22.744608 | CUSTOMER | customerThread-211 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:22.744776 | CUSTOMER | customerThread-217 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.746369 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.746737 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:22.746935 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:22.747136 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:22.747273 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:22.747384 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:22.747518 | CUSTOMER | customerThread-242 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:22.747644 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:22.747745 | CUSTOMER | customerThread-214 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:22.747852 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:22.747954 | CUSTOMER | customerThread-238 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:22.748062 | CUSTOMER | customerThread-225 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:22.748192 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:22.748357 | CUSTOMER | customerThread-226 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:22.748564 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:22.748738 | CUSTOMER | customerThread-51 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:22.748905 | CUSTOMER | customerThread-52 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:22.749021 | CUSTOMER | customerThread-237 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:22.749157 | CUSTOMER | customerThread-53 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:22.749265 | CUSTOMER | customerThread-95 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.749423 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.749540 | CUSTOMER | customerThread-245 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.749726 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.749925 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:22.750106 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:22.750197 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:22.750323 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:22.750437 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:22.750556 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:22.750645 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:22.750731 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:22.750882 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:22.751074 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:22.751262 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:22.751420 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:22.751528 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 14 of 1000
+[LOG]  | 2024-12-12T10:02:22.751622 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 15 of 1000
+[LOG]  | 2024-12-12T10:02:22.751759 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 16 of 1000
+[LOG]  | 2024-12-12T10:02:22.752012 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 17 of 1000
+[LOG]  | 2024-12-12T10:02:22.752170 | CUSTOMER | customerThread-210 | purchased ticket 
+[INFO] | Current pool size 16/1000
+[LOG]  | 2024-12-12T10:02:22.752610 | CUSTOMER | customerThread-80 | purchased ticket 
+[INFO] | Current pool size 15/1000
+[LOG]  | 2024-12-12T10:02:22.752812 | CUSTOMER | customerThread-54 | purchased ticket 
+[INFO] | Current pool size 14/1000
+[LOG]  | 2024-12-12T10:02:22.752997 | CUSTOMER | customerThread-236 | purchased ticket 
+[INFO] | Current pool size 13/1000
+[LOG]  | 2024-12-12T10:02:22.753312 | CUSTOMER | customerThread-55 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:22.753705 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:22.753868 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 14 of 1000
+[LOG]  | 2024-12-12T10:02:22.754035 | CUSTOMER | customerThread-56 | purchased ticket 
+[INFO] | Current pool size 13/1000
+[LOG]  | 2024-12-12T10:02:22.754140 | CUSTOMER | customerThread-235 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:22.754235 | CUSTOMER | customerThread-227 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:22.754335 | CUSTOMER | customerThread-57 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:22.754424 | CUSTOMER | customerThread-58 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:22.754518 | CUSTOMER | customerThread-59 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:22.754618 | CUSTOMER | customerThread-61 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:22.754744 | CUSTOMER | customerThread-161 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:22.754854 | CUSTOMER | customerThread-189 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:22.755123 | CUSTOMER | customerThread-190 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:22.755237 | CUSTOMER | customerThread-191 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:22.755336 | CUSTOMER | customerThread-192 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:22.755448 | CUSTOMER | customerThread-193 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:22.755536 | CUSTOMER | customerThread-249 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:22.756795 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:22.756899 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:22.756972 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:22.757042 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:22.757112 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:22.757181 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:22.757252 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:22.757321 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:22.757509 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:22.757618 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:22.757816 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:22.757902 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:22.757975 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:22.758235 | CUSTOMER | customerThread-230 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:22.758377 | CUSTOMER | customerThread-218 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:22.758491 | CUSTOMER | customerThread-240 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:22.758613 | CUSTOMER | customerThread-239 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:22.758722 | CUSTOMER | customerThread-209 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:22.758813 | CUSTOMER | customerThread-206 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:22.758906 | CUSTOMER | customerThread-207 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:22.758993 | CUSTOMER | customerThread-208 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:22.759099 | CUSTOMER | customerThread-243 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:22.759422 | CUSTOMER | customerThread-212 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:22.759527 | CUSTOMER | customerThread-213 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:22.759730 | CUSTOMER | customerThread-215 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:22.759852 | CUSTOMER | customerThread-241 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.741075 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.755317 | CUSTOMER | customerThread-145 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.755659 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.755773 | CUSTOMER | customerThread-216 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.755880 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.755963 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.756048 | CUSTOMER | customerThread-109 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.756103 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.756148 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.756193 | CUSTOMER | customerThread-187 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.756290 | CUSTOMER | customerThread-111 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.756348 | CUSTOMER | customerThread-136 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.756430 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.756469 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.756510 | CUSTOMER | customerThread-154 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.756560 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.756629 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.756673 | CUSTOMER | customerThread-183 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.756720 | CUSTOMER | customerThread-179 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.756764 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.756799 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.756833 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:27.756868 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:27.756907 | CUSTOMER | customerThread-181 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:27.756958 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:27.756998 | CUSTOMER | customerThread-180 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:27.757045 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:27.757082 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:27.757119 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:27.757155 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:27.757193 | CUSTOMER | customerThread-155 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:27.757242 | CUSTOMER | customerThread-141 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:27.757288 | CUSTOMER | customerThread-205 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:27.757339 | CUSTOMER | customerThread-178 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:27.757449 | CUSTOMER | customerThread-194 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:27.757539 | CUSTOMER | customerThread-195 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.757592 | CUSTOMER | customerThread-150 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.757647 | CUSTOMER | customerThread-147 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.757788 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.757842 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.757883 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.757946 | CUSTOMER | customerThread-247 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.758047 | CUSTOMER | customerThread-199 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.758095 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.758166 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.758301 | CUSTOMER | customerThread-200 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.758358 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.758423 | CUSTOMER | customerThread-201 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.758513 | CUSTOMER | customerThread-246 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.758684 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.758771 | CUSTOMER | customerThread-156 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.758835 | CUSTOMER | customerThread-202 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.758888 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.758950 | CUSTOMER | customerThread-204 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.759058 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.759115 | CUSTOMER | customerThread-138 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.759274 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.759405 | CUSTOMER | customerThread-174 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.759588 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.759678 | CUSTOMER | customerThread-173 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.759739 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.759824 | CUSTOMER | customerThread-171 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.759983 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.760073 | CUSTOMER | customerThread-169 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.760119 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.760178 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.760228 | CUSTOMER | customerThread-168 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.760275 | CUSTOMER | customerThread-167 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.760340 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.760389 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.760439 | CUSTOMER | customerThread-165 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.760487 | CUSTOMER | customerThread-164 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.761106 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.761265 | CUSTOMER | customerThread-119 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.761546 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.761606 | CUSTOMER | customerThread-120 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.761713 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.761761 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.761829 | CUSTOMER | customerThread-89 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.761871 | CUSTOMER | customerThread-65 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.762301 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.762356 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.762399 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.762436 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:27.762472 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:27.762548 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:27.762585 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:27.762625 | CUSTOMER | customerThread-97 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:27.762675 | CUSTOMER | customerThread-93 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:27.762719 | CUSTOMER | customerThread-91 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:27.762759 | CUSTOMER | customerThread-158 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:27.762799 | CUSTOMER | customerThread-122 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.762837 | CUSTOMER | customerThread-124 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.762876 | CUSTOMER | customerThread-105 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:27.762916 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:27.762980 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:27.763023 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:27.763073 | CUSTOMER | customerThread-103 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:27.763132 | CUSTOMER | customerThread-87 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:27.763181 | CUSTOMER | customerThread-177 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:32.757687 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:32.758631 | CUSTOMER | customerThread-152 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:32.759556 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:32.759931 | CUSTOMER | customerThread-193 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:32.762488 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:32.762805 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:32.762946 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:32.763112 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:32.763207 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:32.763386 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:32.763533 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:32.763642 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:32.763787 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:32.763880 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:32.763986 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:32.764090 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:32.764222 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 13 of 1000
+[LOG]  | 2024-12-12T10:02:32.764312 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 14 of 1000
+[LOG]  | 2024-12-12T10:02:32.764507 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 15 of 1000
+[LOG]  | 2024-12-12T10:02:32.764600 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 16 of 1000
+[LOG]  | 2024-12-12T10:02:32.764755 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 17 of 1000
+[LOG]  | 2024-12-12T10:02:32.765315 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 18 of 1000
+[LOG]  | 2024-12-12T10:02:32.765406 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 19 of 1000
+[LOG]  | 2024-12-12T10:02:32.765484 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 20 of 1000
+[LOG]  | 2024-12-12T10:02:32.765560 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 21 of 1000
+[LOG]  | 2024-12-12T10:02:32.765647 | CUSTOMER | customerThread-249 | purchased ticket 
+[INFO] | Current pool size 20/1000
+[LOG]  | 2024-12-12T10:02:32.765784 | CUSTOMER | customerThread-212 | purchased ticket 
+[INFO] | Current pool size 19/1000
+[LOG]  | 2024-12-12T10:02:32.765888 | CUSTOMER | customerThread-241 | purchased ticket 
+[INFO] | Current pool size 18/1000
+[LOG]  | 2024-12-12T10:02:32.765974 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 19 of 1000
+[LOG]  | 2024-12-12T10:02:32.766074 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 20 of 1000
+[LOG]  | 2024-12-12T10:02:32.766328 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 21 of 1000
+[LOG]  | 2024-12-12T10:02:32.766442 | CUSTOMER | customerThread-215 | purchased ticket 
+[INFO] | Current pool size 20/1000
+[LOG]  | 2024-12-12T10:02:32.766558 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 21 of 1000
+[LOG]  | 2024-12-12T10:02:32.766671 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 22 of 1000
+[LOG]  | 2024-12-12T10:02:32.766774 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 23 of 1000
+[LOG]  | 2024-12-12T10:02:32.766869 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 24 of 1000
+[LOG]  | 2024-12-12T10:02:32.766972 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 25 of 1000
+[LOG]  | 2024-12-12T10:02:32.767060 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 26 of 1000
+[LOG]  | 2024-12-12T10:02:32.767164 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 27 of 1000
+[LOG]  | 2024-12-12T10:02:32.767345 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 28 of 1000
+[LOG]  | 2024-12-12T10:02:32.767523 | CUSTOMER | customerThread-243 | purchased ticket 
+[INFO] | Current pool size 27/1000
+[LOG]  | 2024-12-12T10:02:32.767620 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 28 of 1000
+[LOG]  | 2024-12-12T10:02:32.767714 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 29 of 1000
+[LOG]  | 2024-12-12T10:02:32.767823 | CUSTOMER | customerThread-239 | purchased ticket 
+[INFO] | Current pool size 28/1000
+[LOG]  | 2024-12-12T10:02:32.767935 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 29 of 1000
+[LOG]  | 2024-12-12T10:02:32.768047 | CUSTOMER | customerThread-240 | purchased ticket 
+[INFO] | Current pool size 28/1000
+[LOG]  | 2024-12-12T10:02:32.768145 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 29 of 1000
+[LOG]  | 2024-12-12T10:02:32.768246 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 30 of 1000
+[LOG]  | 2024-12-12T10:02:32.768368 | CUSTOMER | customerThread-213 | purchased ticket 
+[INFO] | Current pool size 29/1000
+[LOG]  | 2024-12-12T10:02:32.768452 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 30 of 1000
+[LOG]  | 2024-12-12T10:02:32.768543 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 31 of 1000
+[LOG]  | 2024-12-12T10:02:32.768631 | CUSTOMER | customerThread-206 | purchased ticket 
+[INFO] | Current pool size 30/1000
+[LOG]  | 2024-12-12T10:02:32.768716 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 31 of 1000
+[LOG]  | 2024-12-12T10:02:32.768864 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 32 of 1000
+[LOG]  | 2024-12-12T10:02:32.769549 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 33 of 1000
+[LOG]  | 2024-12-12T10:02:32.769734 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 34 of 1000
+[LOG]  | 2024-12-12T10:02:32.769838 | CUSTOMER | customerThread-209 | purchased ticket 
+[INFO] | Current pool size 33/1000
+[LOG]  | 2024-12-12T10:02:32.769959 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 34 of 1000
+[LOG]  | 2024-12-12T10:02:32.770077 | CUSTOMER | customerThread-219 | purchased ticket 
+[INFO] | Current pool size 33/1000
+[LOG]  | 2024-12-12T10:02:32.770195 | CUSTOMER | customerThread-220 | purchased ticket 
+[INFO] | Current pool size 32/1000
+[LOG]  | 2024-12-12T10:02:32.770304 | CUSTOMER | customerThread-221 | purchased ticket 
+[INFO] | Current pool size 31/1000
+[LOG]  | 2024-12-12T10:02:32.770420 | CUSTOMER | customerThread-151 | purchased ticket 
+[INFO] | Current pool size 30/1000
+[LOG]  | 2024-12-12T10:02:32.770517 | CUSTOMER | customerThread-133 | purchased ticket 
+[INFO] | Current pool size 29/1000
+[LOG]  | 2024-12-12T10:02:32.770638 | CUSTOMER | customerThread-127 | purchased ticket 
+[INFO] | Current pool size 28/1000
+[LOG]  | 2024-12-12T10:02:32.770728 | CUSTOMER | customerThread-128 | purchased ticket 
+[INFO] | Current pool size 27/1000
+[LOG]  | 2024-12-12T10:02:32.770828 | CUSTOMER | customerThread-132 | purchased ticket 
+[INFO] | Current pool size 26/1000
+[LOG]  | 2024-12-12T10:02:32.770918 | CUSTOMER | customerThread-144 | purchased ticket 
+[INFO] | Current pool size 25/1000
+[LOG]  | 2024-12-12T10:02:32.771010 | CUSTOMER | customerThread-131 | purchased ticket 
+[INFO] | Current pool size 24/1000
+[LOG]  | 2024-12-12T10:02:32.771104 | CUSTOMER | customerThread-223 | purchased ticket 
+[INFO] | Current pool size 23/1000
+[LOG]  | 2024-12-12T10:02:32.771209 | CUSTOMER | customerThread-129 | purchased ticket 
+[INFO] | Current pool size 22/1000
+[LOG]  | 2024-12-12T10:02:32.771292 | CUSTOMER | customerThread-224 | purchased ticket 
+[INFO] | Current pool size 21/1000
+[LOG]  | 2024-12-12T10:02:32.771379 | CUSTOMER | customerThread-222 | purchased ticket 
+[INFO] | Current pool size 20/1000
+[LOG]  | 2024-12-12T10:02:32.771473 | CUSTOMER | customerThread-112 | purchased ticket 
+[INFO] | Current pool size 19/1000
+[LOG]  | 2024-12-12T10:02:32.771565 | CUSTOMER | customerThread-114 | purchased ticket 
+[INFO] | Current pool size 18/1000
+[LOG]  | 2024-12-12T10:02:32.771647 | CUSTOMER | customerThread-113 | purchased ticket 
+[INFO] | Current pool size 17/1000
+[LOG]  | 2024-12-12T10:02:32.771756 | CUSTOMER | customerThread-117 | purchased ticket 
+[INFO] | Current pool size 16/1000
+[LOG]  | 2024-12-12T10:02:32.771835 | CUSTOMER | customerThread-118 | purchased ticket 
+[INFO] | Current pool size 15/1000
+[LOG]  | 2024-12-12T10:02:32.771914 | CUSTOMER | customerThread-115 | purchased ticket 
+[INFO] | Current pool size 14/1000
+[LOG]  | 2024-12-12T10:02:32.771991 | CUSTOMER | customerThread-137 | purchased ticket 
+[INFO] | Current pool size 13/1000
+[LOG]  | 2024-12-12T10:02:32.772065 | CUSTOMER | customerThread-116 | purchased ticket 
+[INFO] | Current pool size 12/1000
+[LOG]  | 2024-12-12T10:02:32.772142 | CUSTOMER | customerThread-125 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:32.772218 | CUSTOMER | customerThread-121 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:32.772304 | CUSTOMER | customerThread-134 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:32.772381 | CUSTOMER | customerThread-188 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:32.772455 | CUSTOMER | customerThread-186 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:32.772530 | CUSTOMER | customerThread-185 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:32.772608 | CUSTOMER | customerThread-248 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:32.772704 | CUSTOMER | customerThread-149 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:32.772829 | CUSTOMER | customerThread-85 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:32.772900 | CUSTOMER | customerThread-196 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:32.772996 | CUSTOMER | customerThread-101 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:32.773069 | CUSTOMER | customerThread-146 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:32.773956 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:32.774062 | CUSTOMER | customerThread-210 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:32.774391 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:32.774510 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:32.774694 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:32.774799 | CUSTOMER | customerThread-207 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:32.774885 | CUSTOMER | customerThread-208 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:32.774960 | CUSTOMER | customerThread-192 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.762219 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.763068 | CUSTOMER | customerThread-191 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.763630 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.764027 | CUSTOMER | customerThread-120 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.766245 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.766392 | CUSTOMER | customerThread-247 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.766537 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.766676 | CUSTOMER | customerThread-119 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.766809 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.766892 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.767049 | CUSTOMER | customerThread-194 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.767131 | CUSTOMER | customerThread-199 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.767224 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.767318 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.767434 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:37.767529 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:37.767625 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:37.767730 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:37.767830 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:37.767918 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:37.768038 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:37.768157 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:37.768335 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:37.768463 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:37.768564 | CUSTOMER | customerThread-65 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:37.768673 | CUSTOMER | customerThread-89 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:37.768779 | CUSTOMER | customerThread-105 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:37.768871 | CUSTOMER | customerThread-124 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:37.768973 | CUSTOMER | customerThread-93 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:37.769062 | CUSTOMER | customerThread-97 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:37.769146 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:37.769248 | CUSTOMER | customerThread-122 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:37.769329 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:37.769420 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:37.769511 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:37.769597 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:37.769676 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:37.769762 | CUSTOMER | customerThread-158 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:37.769844 | CUSTOMER | customerThread-91 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:37.769916 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:37.769998 | CUSTOMER | customerThread-190 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:37.770073 | CUSTOMER | customerThread-189 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:37.770147 | CUSTOMER | customerThread-161 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:37.770218 | CUSTOMER | customerThread-235 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:37.770289 | CUSTOMER | customerThread-56 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:37.770361 | CUSTOMER | customerThread-61 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:37.770431 | CUSTOMER | customerThread-59 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:37.770500 | CUSTOMER | customerThread-58 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:37.770611 | CUSTOMER | customerThread-57 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.770680 | CUSTOMER | customerThread-227 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.771163 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.771260 | CUSTOMER | customerThread-92 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.771898 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.772041 | CUSTOMER | customerThread-123 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.772119 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.772257 | CUSTOMER | customerThread-126 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.772930 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.773081 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.773169 | CUSTOMER | customerThread-195 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.773301 | CUSTOMER | customerThread-150 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.773854 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.773942 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.774017 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:37.774091 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:37.774175 | CUSTOMER | customerThread-176 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:37.774290 | CUSTOMER | customerThread-175 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:37.774413 | CUSTOMER | customerThread-130 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.774500 | CUSTOMER | customerThread-148 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.775003 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.775096 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.775168 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:37.775244 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:37.775316 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:37.775399 | CUSTOMER | customerThread-96 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:37.775479 | CUSTOMER | customerThread-102 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:37.775555 | CUSTOMER | customerThread-99 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:37.775637 | CUSTOMER | customerThread-108 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.775713 | CUSTOMER | customerThread-104 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.776160 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.776241 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.776311 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:37.776380 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:37.776469 | CUSTOMER | customerThread-236 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:37.776564 | CUSTOMER | customerThread-54 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:37.776660 | CUSTOMER | customerThread-80 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.776758 | CUSTOMER | customerThread-55 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.777587 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.777685 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.777775 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:37.777863 | CUSTOMER | customerThread-142 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:37.777943 | CUSTOMER | customerThread-157 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.778072 | CUSTOMER | customerThread-153 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.778224 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.778316 | CUSTOMER | customerThread-197 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.779391 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.779757 | CUSTOMER | customerThread-238 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:37.780714 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:37.780789 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:37.780850 | CUSTOMER | customerThread-216 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:37.780911 | CUSTOMER | customerThread-145 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.765323 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.773213 | CUSTOMER | customerThread-205 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.773967 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.774369 | CUSTOMER | customerThread-53 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.774716 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.774920 | CUSTOMER | customerThread-245 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.775119 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.775255 | CUSTOMER | customerThread-217 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.775812 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.776018 | CUSTOMER | customerThread-232 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.776524 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.776660 | CUSTOMER | customerThread-74 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.777197 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.777291 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.777375 | CUSTOMER | customerThread-66 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.777460 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.777529 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.777604 | CUSTOMER | customerThread-213 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.777684 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.777757 | CUSTOMER | customerThread-239 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.777848 | CUSTOMER | customerThread-243 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.777950 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.778048 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.778121 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:42.778200 | CUSTOMER | customerThread-215 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:42.778281 | CUSTOMER | customerThread-128 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.778429 | CUSTOMER | customerThread-221 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.778506 | CUSTOMER | customerThread-133 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.778594 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.778662 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.778736 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.778796 | CUSTOMER | customerThread-207 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.778900 | CUSTOMER | customerThread-127 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.778983 | CUSTOMER | customerThread-212 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.779053 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.779125 | CUSTOMER | customerThread-151 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.779211 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.779287 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.779355 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.779423 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:42.779506 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:42.779593 | CUSTOMER | customerThread-206 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:42.779666 | CUSTOMER | customerThread-240 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:42.779733 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:42.779796 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:42.779860 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:42.779930 | CUSTOMER | customerThread-241 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:42.780010 | CUSTOMER | customerThread-249 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:42.780330 | CUSTOMER | customerThread-72 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:42.780422 | CUSTOMER | customerThread-73 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.780513 | CUSTOMER | customerThread-100 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.780620 | CUSTOMER | customerThread-64 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.780992 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.781065 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.781150 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.781257 | CUSTOMER | customerThread-163 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.781375 | CUSTOMER | customerThread-166 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.781489 | CUSTOMER | customerThread-160 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.783011 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.783325 | CUSTOMER | customerThread-103 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.785355 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.785476 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.785572 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.785666 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:42.785757 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:42.786361 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:42.786457 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:42.786535 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:42.786636 | CUSTOMER | customerThread-162 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:42.786784 | CUSTOMER | customerThread-60 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:42.787167 | CUSTOMER | customerThread-184 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:42.787259 | CUSTOMER | customerThread-182 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:42.787418 | CUSTOMER | customerThread-233 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:42.787523 | CUSTOMER | customerThread-143 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.787600 | CUSTOMER | customerThread-228 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.787856 | CUSTOMER | customerThread-159 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.788055 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.788151 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.788222 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.788293 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:42.788357 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:42.788428 | CUSTOMER | customerThread-62 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:42.788507 | CUSTOMER | customerThread-76 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:42.788597 | CUSTOMER | customerThread-69 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.788671 | CUSTOMER | customerThread-78 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.788751 | CUSTOMER | customerThread-83 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.789331 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.789446 | CUSTOMER | customerThread-101 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.789540 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.789633 | CUSTOMER | customerThread-112 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:42.789720 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:42.789792 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.789855 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.789934 | CUSTOMER | customerThread-208 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.790013 | CUSTOMER | customerThread-223 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.790143 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:42.790208 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:42.790287 | CUSTOMER | customerThread-129 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:42.790366 | CUSTOMER | customerThread-51 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:42.790436 | CUSTOMER | customerThread-230 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.774545 | VENDOR | VendorThread-5 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.777663 | CUSTOMER | customerThread-218 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.778929 | VENDOR | VendorThread-10 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.779216 | CUSTOMER | customerThread-167 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.780744 | VENDOR | VendorThread-44 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.780980 | CUSTOMER | customerThread-54 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.781241 | VENDOR | VendorThread-12 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.781360 | CUSTOMER | customerThread-104 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.782128 | VENDOR | VendorThread-46 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.782274 | CUSTOMER | customerThread-220 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.783331 | VENDOR | VendorThread-32 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.783732 | VENDOR | VendorThread-48 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:47.783953 | VENDOR | VendorThread-9 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:47.784130 | VENDOR | VendorThread-26 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:47.784311 | VENDOR | VendorThread-21 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:47.784441 | VENDOR | VendorThread-2 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:47.784570 | VENDOR | VendorThread-49 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:47.784697 | CUSTOMER | customerThread-80 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:47.784852 | CUSTOMER | customerThread-236 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:47.784945 | VENDOR | VendorThread-42 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:47.785034 | VENDOR | VendorThread-14 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:47.785151 | VENDOR | VendorThread-23 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:47.785263 | VENDOR | VendorThread-30 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:47.785361 | VENDOR | VendorThread-45 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:47.785468 | VENDOR | VendorThread-3 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:47.785560 | VENDOR | VendorThread-27 | Added ticket 
+[INFO] | Current pool size 12 of 1000
+[LOG]  | 2024-12-12T10:02:47.785635 | CUSTOMER | customerThread-195 | purchased ticket 
+[INFO] | Current pool size 11/1000
+[LOG]  | 2024-12-12T10:02:47.785718 | CUSTOMER | customerThread-123 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:47.785812 | CUSTOMER | customerThread-122 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:47.785970 | CUSTOMER | customerThread-97 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:47.786059 | CUSTOMER | customerThread-124 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:47.786141 | CUSTOMER | customerThread-89 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:47.786228 | CUSTOMER | customerThread-227 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:47.786314 | CUSTOMER | customerThread-93 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:47.786402 | CUSTOMER | customerThread-57 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:47.786493 | CUSTOMER | customerThread-58 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:47.786579 | CUSTOMER | customerThread-59 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:47.786671 | CUSTOMER | customerThread-235 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.787579 | VENDOR | VendorThread-20 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.787674 | CUSTOMER | customerThread-210 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.788113 | VENDOR | VendorThread-13 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.788201 | CUSTOMER | customerThread-117 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.788654 | VENDOR | VendorThread-31 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.788735 | VENDOR | VendorThread-41 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:47.788801 | VENDOR | VendorThread-34 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:47.788866 | VENDOR | VendorThread-16 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:47.788929 | VENDOR | VendorThread-7 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:47.788992 | VENDOR | VendorThread-17 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:47.789055 | VENDOR | VendorThread-11 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:47.789116 | VENDOR | VendorThread-19 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:47.789177 | VENDOR | VendorThread-36 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:47.789251 | CUSTOMER | customerThread-126 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:47.789319 | CUSTOMER | customerThread-130 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:47.789391 | CUSTOMER | customerThread-175 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:47.789463 | CUSTOMER | customerThread-150 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:47.789534 | CUSTOMER | customerThread-148 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:47.789618 | CUSTOMER | customerThread-96 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:47.789726 | CUSTOMER | customerThread-102 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:47.789808 | CUSTOMER | customerThread-99 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:47.789893 | CUSTOMER | customerThread-108 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.790281 | VENDOR | VendorThread-0 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.790370 | CUSTOMER | customerThread-186 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.790722 | VENDOR | VendorThread-1 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.790798 | VENDOR | VendorThread-38 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:47.790924 | CUSTOMER | customerThread-71 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:47.791108 | CUSTOMER | customerThread-67 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.791181 | VENDOR | VendorThread-15 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.791261 | VENDOR | VendorThread-43 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:47.791341 | CUSTOMER | customerThread-68 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:47.791425 | CUSTOMER | customerThread-50 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.792183 | VENDOR | VendorThread-37 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.792273 | VENDOR | VendorThread-29 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:47.792349 | VENDOR | VendorThread-28 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:47.792419 | VENDOR | VendorThread-22 | Added ticket 
+[INFO] | Current pool size 4 of 1000
+[LOG]  | 2024-12-12T10:02:47.792486 | VENDOR | VendorThread-25 | Added ticket 
+[INFO] | Current pool size 5 of 1000
+[LOG]  | 2024-12-12T10:02:47.792596 | VENDOR | VendorThread-24 | Added ticket 
+[INFO] | Current pool size 6 of 1000
+[LOG]  | 2024-12-12T10:02:47.792660 | VENDOR | VendorThread-8 | Added ticket 
+[INFO] | Current pool size 7 of 1000
+[LOG]  | 2024-12-12T10:02:47.792723 | VENDOR | VendorThread-33 | Added ticket 
+[INFO] | Current pool size 8 of 1000
+[LOG]  | 2024-12-12T10:02:47.792783 | VENDOR | VendorThread-6 | Added ticket 
+[INFO] | Current pool size 9 of 1000
+[LOG]  | 2024-12-12T10:02:47.792843 | VENDOR | VendorThread-47 | Added ticket 
+[INFO] | Current pool size 10 of 1000
+[LOG]  | 2024-12-12T10:02:47.792922 | VENDOR | VendorThread-35 | Added ticket 
+[INFO] | Current pool size 11 of 1000
+[LOG]  | 2024-12-12T10:02:47.792991 | CUSTOMER | customerThread-192 | purchased ticket 
+[INFO] | Current pool size 10/1000
+[LOG]  | 2024-12-12T10:02:47.793060 | CUSTOMER | customerThread-219 | purchased ticket 
+[INFO] | Current pool size 9/1000
+[LOG]  | 2024-12-12T10:02:47.793135 | CUSTOMER | customerThread-209 | purchased ticket 
+[INFO] | Current pool size 8/1000
+[LOG]  | 2024-12-12T10:02:47.793210 | CUSTOMER | customerThread-82 | purchased ticket 
+[INFO] | Current pool size 7/1000
+[LOG]  | 2024-12-12T10:02:47.793294 | CUSTOMER | customerThread-86 | purchased ticket 
+[INFO] | Current pool size 6/1000
+[LOG]  | 2024-12-12T10:02:47.793368 | CUSTOMER | customerThread-70 | purchased ticket 
+[INFO] | Current pool size 5/1000
+[LOG]  | 2024-12-12T10:02:47.793444 | CUSTOMER | customerThread-88 | purchased ticket 
+[INFO] | Current pool size 4/1000
+[LOG]  | 2024-12-12T10:02:47.793517 | CUSTOMER | customerThread-90 | purchased ticket 
+[INFO] | Current pool size 3/1000
+[LOG]  | 2024-12-12T10:02:47.793590 | CUSTOMER | customerThread-94 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:47.793665 | CUSTOMER | customerThread-98 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:47.793736 | CUSTOMER | customerThread-106 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.794241 | VENDOR | VendorThread-39 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.794316 | VENDOR | VendorThread-18 | Added ticket 
+[INFO] | Current pool size 2 of 1000
+[LOG]  | 2024-12-12T10:02:47.794380 | VENDOR | VendorThread-4 | Added ticket 
+[INFO] | Current pool size 3 of 1000
+[LOG]  | 2024-12-12T10:02:47.794458 | CUSTOMER | customerThread-55 | purchased ticket 
+[INFO] | Current pool size 2/1000
+[LOG]  | 2024-12-12T10:02:47.794537 | CUSTOMER | customerThread-95 | purchased ticket 
+[INFO] | Current pool size 1/1000
+[LOG]  | 2024-12-12T10:02:47.794620 | CUSTOMER | customerThread-214 | purchased ticket 
+[INFO] | Current pool size 0/1000
+[LOG]  | 2024-12-12T10:02:47.795135 | VENDOR | VendorThread-40 | Added ticket 
+[INFO] | Current pool size 1 of 1000
+[LOG]  | 2024-12-12T10:02:47.795221 | CUSTOMER | customerThread-61 | purchased ticket 
+[INFO] | Current pool size 0/1000
